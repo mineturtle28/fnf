@@ -1,17 +1,17 @@
 setUP
-W
+d
 setUP (ALTERNATE)
 FlxKey.UP
 setDOWN
-S
+f
 setDOWN (ALTERNATE)
 FlxKey.DOWN
 setLEFT
-A
+j
 setLEFT (ALTERNATE)
 FlxKey.LEFT
 setRIGHT
-D
+k
 setRIGHT (ALTERNATE)
 FlxKey.RIGHT
 setACCEPT
